@@ -1,1 +1,1 @@
-# -AI-Powered-News-Summarizer
+# AI-Powered-News-Summarizer
