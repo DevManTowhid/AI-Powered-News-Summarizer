@@ -1,0 +1,30 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+*.env
+
+# Logs
+*.log
+
+# Environment variable file (do not push secrets)
+.env
+
+# IDE/editor settings
+.idea/
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# FastAPI-specific (if you use Docker or other setups)
+*.db
+*.sqlite3
+*.log
+
+# Coverage reports (if using pytest or other test tools)
+.coverage
+*.cover
